@@ -1,5 +1,16 @@
 categories:
 - Engineering
 conversations:
-- - Format the question like this
-  - Format the answer like this
+- - what's the expected tolerance for this crank pin?
+  - it should be about 0.0005 milimeters 
+
+- - how would the crank pin be designed
+  - subtractive boolean operations 
+  
+- - whats the design phase of the motor block
+  - i've just finished and its now at the manufacturing facility for prototype testing
+  
+- - speaking of prototype testing, how are we going to test the motor 
+  - simple, we will just push the motor beyond what it was intended to do. such as increase the redline as far as possible and playing with ignition temperatures
+  
+- - 
