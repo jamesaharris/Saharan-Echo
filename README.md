@@ -1,4 +1,4 @@
-# Saharan-Echo
-Experments in human response AIs and how different algorithms work to test and create our own AI. The Saharan Echo Project is pointed at a final goal of teaching us AI to a deeper point and creating a powerful human reading AI for public use.
+# Saharan Chatter
 
-(also could be used in differing use cases but it is specialized in human reading)
+This is the chatterbot portion of our research. It is currently being trained with as much data as possible to create a complete set for a voice and text bot. It is not a personal assistant, it is more along the lines of a cleverbot type thing without the weird stuff the internet threw at it. 
+
