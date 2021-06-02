@@ -1,4 +1,4 @@
-<p align=center><img src="https://raw.githubusercontent.com/jamesaharris/Saharan-Echo/Website/echo.png" alt="Header" width=30% /></p>
+<p align=center><img src="https://raw.githubusercontent.com/jamesaharris/Saharan-Echo/Website/echo.png" alt="Header" width=50% /></p>
 
 
 # Welcome to the Saharan Echo Project
