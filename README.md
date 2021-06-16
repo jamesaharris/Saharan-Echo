@@ -1,4 +1,3 @@
-# Saharan-Echo
-Experments in human response AIs and how different algorithms work to test and create our own AI. The Saharan Echo Project is pointed at a final goal of teaching us AI to a deeper point and creating a powerful human reading AI for public use.
+# Teachable by Google
 
-To read our progress with third Party AIs and view our websites code check our branches. Main Branch is made for the sole purpose of an overview and creation of our own AI.
+Ok. I've got a basic one right here. Teachable Machines by Google. Mean't as an intoduction to ai programming and some basic stuff I decided to just try it out and see how it can be pushed. Reversing and understanding the code should be pretty easy.
